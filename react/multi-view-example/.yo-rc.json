@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "cascade-drop-down",
+    "libraryId": "ca17c004-77f2-4c91-b499-4ea77fcc7f94",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
