@@ -10,7 +10,9 @@ export default class Main extends React.Component<IMainProps, {}> {
     return (
       
      <div>
-         {!this.props.needsConfiguration && <Config configureWebPart={this.props.configureWebPart}/>}
+         {
+           !this.props.needsConfiguration && <Config configureWebPart={this.props.configureWebPart}/>
+         }
 
          {
            this.props.needsConfiguration && <Display name={this.props.name}/>
