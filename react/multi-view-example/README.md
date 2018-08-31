@@ -1,4 +1,4 @@
-## cascade-drop-down
+## multi-view-example
 
 This is where you include your WebPart documentation.
 
